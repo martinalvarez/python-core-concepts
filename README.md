@@ -20,6 +20,8 @@ A comprehensive reference of high-level Python programming patterns, ranging fro
 
 *Learning resources and roadmap inspired by PythonTutorial.net.*
 
+Using venv ensures that project dependencies are isolated, avoiding conflicts with system-wide packages and ensuring consistent behavior across different environments (Development, Staging, Production).
+
 ## 🚀 Setup
 
 1. Clone the repository:
